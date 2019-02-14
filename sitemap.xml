@@ -3,63 +3,63 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/blog/my-experience-with-hugo/</loc>
+    <loc>https://awilddevappears.github.io/blog/my-experience-with-hugo/</loc>
     <lastmod>2019-01-17T17:07:35+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/blog/why-arctor-failed/</loc>
+    <loc>https://awilddevappears.github.io/blog/why-arctor-failed/</loc>
     <lastmod>2019-01-02T11:18:20+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/projects/whiteoctober/render-2018/</loc>
+    <loc>https://awilddevappears.github.io/projects/whiteoctober/render-2018/</loc>
     <lastmod>2018-12-30T18:21:22+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/projects/personal/randomals/</loc>
+    <loc>https://awilddevappears.github.io/projects/personal/randomals/</loc>
     <lastmod>2018-12-30T13:13:49+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://awilddevappears.github.io/</loc>
     <lastmod>2018-11-02T14:00:17+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/styleguide/</loc>
+    <loc>https://awilddevappears.github.io/styleguide/</loc>
     <lastmod>2018-11-02T13:43:09+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/projects/</loc>
+    <loc>https://awilddevappears.github.io/projects/</loc>
     <lastmod>2018-11-02T13:42:52+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://awilddevappears.github.io/about/</loc>
     <lastmod>2018-11-02T13:39:59+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/projects/personal/awilddevappears-stage-one/</loc>
+    <loc>https://awilddevappears.github.io/projects/personal/awilddevappears-stage-one/</loc>
     <lastmod>2017-12-30T17:23:10+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/blog/</loc>
+    <loc>https://awilddevappears.github.io/blog/</loc>
     <lastmod>2019-01-17T17:07:35+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://awilddevappears.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://awilddevappears.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   

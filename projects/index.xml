@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on AWildDevAppears</title>
-    <link>http://example.org/projects/</link>
+    <link>https://awilddevappears.github.io/projects/</link>
     <description>Recent content in Projects on AWildDevAppears</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 02 Nov 2018 13:42:52 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://awilddevappears.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Render 2018</title>
-      <link>http://example.org/projects/whiteoctober/render-2018/</link>
+      <link>https://awilddevappears.github.io/projects/whiteoctober/render-2018/</link>
       <pubDate>Sun, 30 Dec 2018 18:21:22 +0000</pubDate>
       
-      <guid>http://example.org/projects/whiteoctober/render-2018/</guid>
+      <guid>https://awilddevappears.github.io/projects/whiteoctober/render-2018/</guid>
       <description>Every year, White October Events have several amazing conferences, from The Lead Developer, to Angular Connect and things like Render, and every year a new site is built for each conference from an internal toolkit we use, which sets up all of the right content into a CMS and loads in some basic styling so we mostly just have to add the color scheme to the site. The only other thing we always have to do is create the hero for the site.</description>
     </item>
     
     <item>
       <title>Randomals</title>
-      <link>http://example.org/projects/personal/randomals/</link>
+      <link>https://awilddevappears.github.io/projects/personal/randomals/</link>
       <pubDate>Sun, 30 Dec 2018 13:13:49 +0000</pubDate>
       
-      <guid>http://example.org/projects/personal/randomals/</guid>
+      <guid>https://awilddevappears.github.io/projects/personal/randomals/</guid>
       <description>Randomals was an app that I built during the time when i was initially learning React, it is a very simplistic app with no back-end whatsoever. The reason I decided not to use a back-end was that I wanted to focus on React alone, and not have anything else that might distract me from my main goal, Also, the app I had planned was relatively simple and adding a full back end seemed overkill.</description>
     </item>
     
     <item>
       <title>AWildDevAppears Stage One</title>
-      <link>http://example.org/projects/personal/awilddevappears-stage-one/</link>
+      <link>https://awilddevappears.github.io/projects/personal/awilddevappears-stage-one/</link>
       <pubDate>Sat, 30 Dec 2017 17:23:10 +0000</pubDate>
       
-      <guid>http://example.org/projects/personal/awilddevappears-stage-one/</guid>
+      <guid>https://awilddevappears.github.io/projects/personal/awilddevappears-stage-one/</guid>
       <description>Stage one of the AWildDevAppears site was built using SCSS as a CSS preprocessor, using my own selection of tools (some of which I have built) to aid me in styling up this site, for the pages, I used Pug, formally Jade, as a transpiler, my reasoning behind this is so that I can make it a lot easier to edit and manipulate shared areas of the page, without touching every page file.</description>
     </item>
     
