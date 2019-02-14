@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A Wild Dev Appears on AWildDevAppears</title>
+    <link>http://example.org/</link>
+    <description>Recent content in A Wild Dev Appears on AWildDevAppears</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Nov 2018 14:00:17 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My Experience With Hugo</title>
+      <link>http://example.org/blog/my-experience-with-hugo/</link>
+      <pubDate>Thu, 17 Jan 2019 17:07:35 +0000</pubDate>
+      
+      <guid>http://example.org/blog/my-experience-with-hugo/</guid>
+      <description>In late 2018, I decided to rebuild my site. It was never really finished in the first place and it was written in old or obscure technologies, I didn&amp;rsquo;t like it. Pug was great, but I&amp;rsquo;ve always been a fan of being able to just write HTML and my build tooling was clunky to say the least.
+I&amp;rsquo;d heard about Hugo while reading about different static site generators, I liked the fact that Hugo is written in Go, a language I love, and the features it promised looked reasonably good.</description>
+    </item>
+    
+    <item>
+      <title>Why Arctor failed</title>
+      <link>http://example.org/blog/why-arctor-failed/</link>
+      <pubDate>Wed, 02 Jan 2019 11:18:20 +0000</pubDate>
+      
+      <guid>http://example.org/blog/why-arctor-failed/</guid>
+      <description>Why did my project, Arctor, fail as a concept, a learning experience, and as a project in general?
+Back in 2018, I really wanted to learn Rust, it was getting big on the WASM scene and I felt like, as I Front Ender, I should jump on the new shiny and try it out. I decided that if I was going to learn Rust, I needed something small, something that I can iterate on without any hassle and it had to solve a problem I was having.</description>
+    </item>
+    
+    <item>
+      <title>Render 2018</title>
+      <link>http://example.org/projects/whiteoctober/render-2018/</link>
+      <pubDate>Sun, 30 Dec 2018 18:21:22 +0000</pubDate>
+      
+      <guid>http://example.org/projects/whiteoctober/render-2018/</guid>
+      <description>Every year, White October Events have several amazing conferences, from The Lead Developer, to Angular Connect and things like Render, and every year a new site is built for each conference from an internal toolkit we use, which sets up all of the right content into a CMS and loads in some basic styling so we mostly just have to add the color scheme to the site. The only other thing we always have to do is create the hero for the site.</description>
+    </item>
+    
+    <item>
+      <title>Randomals</title>
+      <link>http://example.org/projects/personal/randomals/</link>
+      <pubDate>Sun, 30 Dec 2018 13:13:49 +0000</pubDate>
+      
+      <guid>http://example.org/projects/personal/randomals/</guid>
+      <description>Randomals was an app that I built during the time when i was initially learning React, it is a very simplistic app with no back-end whatsoever. The reason I decided not to use a back-end was that I wanted to focus on React alone, and not have anything else that might distract me from my main goal, Also, the app I had planned was relatively simple and adding a full back end seemed overkill.</description>
+    </item>
+    
+    <item>
+      <title>AWildDevAppears Stage One</title>
+      <link>http://example.org/projects/personal/awilddevappears-stage-one/</link>
+      <pubDate>Sat, 30 Dec 2017 17:23:10 +0000</pubDate>
+      
+      <guid>http://example.org/projects/personal/awilddevappears-stage-one/</guid>
+      <description>Stage one of the AWildDevAppears site was built using SCSS as a CSS preprocessor, using my own selection of tools (some of which I have built) to aid me in styling up this site, for the pages, I used Pug, formally Jade, as a transpiler, my reasoning behind this is so that I can make it a lot easier to edit and manipulate shared areas of the page, without touching every page file.</description>
+    </item>
+    
+  </channel>
+</rss>

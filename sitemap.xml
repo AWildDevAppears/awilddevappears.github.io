@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://example.org/blog/my-experience-with-hugo/</loc>
+    <lastmod>2019-01-17T17:07:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/why-arctor-failed/</loc>
+    <lastmod>2019-01-02T11:18:20+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/projects/whiteoctober/render-2018/</loc>
+    <lastmod>2018-12-30T18:21:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/projects/personal/randomals/</loc>
+    <lastmod>2018-12-30T13:13:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2018-11-02T14:00:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/styleguide/</loc>
+    <lastmod>2018-11-02T13:43:09+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/projects/</loc>
+    <lastmod>2018-11-02T13:42:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/about/</loc>
+    <lastmod>2018-11-02T13:39:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/projects/personal/awilddevappears-stage-one/</loc>
+    <lastmod>2017-12-30T17:23:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/blog/</loc>
+    <lastmod>2019-01-17T17:07:35+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

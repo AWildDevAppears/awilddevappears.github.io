@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on AWildDevAppears</title>
+    <link>http://example.org/blog/</link>
+    <description>Recent content in Blogs on AWildDevAppears</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Jan 2019 17:07:35 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My Experience With Hugo</title>
+      <link>http://example.org/blog/my-experience-with-hugo/</link>
+      <pubDate>Thu, 17 Jan 2019 17:07:35 +0000</pubDate>
+      
+      <guid>http://example.org/blog/my-experience-with-hugo/</guid>
+      <description>In late 2018, I decided to rebuild my site. It was never really finished in the first place and it was written in old or obscure technologies, I didn&amp;rsquo;t like it. Pug was great, but I&amp;rsquo;ve always been a fan of being able to just write HTML and my build tooling was clunky to say the least.
+I&amp;rsquo;d heard about Hugo while reading about different static site generators, I liked the fact that Hugo is written in Go, a language I love, and the features it promised looked reasonably good.</description>
+    </item>
+    
+    <item>
+      <title>Why Arctor failed</title>
+      <link>http://example.org/blog/why-arctor-failed/</link>
+      <pubDate>Wed, 02 Jan 2019 11:18:20 +0000</pubDate>
+      
+      <guid>http://example.org/blog/why-arctor-failed/</guid>
+      <description>Why did my project, Arctor, fail as a concept, a learning experience, and as a project in general?
+Back in 2018, I really wanted to learn Rust, it was getting big on the WASM scene and I felt like, as I Front Ender, I should jump on the new shiny and try it out. I decided that if I was going to learn Rust, I needed something small, something that I can iterate on without any hassle and it had to solve a problem I was having.</description>
+    </item>
+    
+  </channel>
+</rss>
